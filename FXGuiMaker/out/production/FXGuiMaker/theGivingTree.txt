@@ -1,0 +1,12 @@
+0 AnchorPane
+0-0 VBox
+0-0-0 TextArea Fido... Or Nancy?
+0-0-1 HBox
+0-0-1-0 Button Get a Pro Bone-o Dog Lawyer
+0-0-1-1 HBox
+0-0-1-2 Button Random Generate A Dog Name
+0-0-1-3 Button Make it
+0-0-1-4 VBox
+0-0-1-4-0 Button Bark
+0-0-1-4-1 Button Roll
+0-0-1-4-2 Button Treat!
